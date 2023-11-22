@@ -8,25 +8,31 @@ SerinpetAPP is a cutting-edge mobile application meticulously designed for the p
 
 ## The process
 
-<img src="images/im1.png" width="300" />
-<img src="images/im2.png" width="200" />
-
+<div style="display: flex; justify-content: space-between;">
+  <img src="images/im1.png" width="200" />
+  <img src="images/im2.png" width="200" />
+</div>
 
 ### PI RP11 Methodology:
 
 SerinpetAPP utilizes the API RP11 method, a widely recognized industry standard for oil well calculations. This ensures high accuracy and reliability in assessing crucial well parameters without compromising on confidentiality.
 
 
-<img src="images/im3.png" width="200" />
-<img src="images/im4.png" width="200" />
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/im3.png" width="200" />
+    <img src="images/im4.png" width="200" />
+</div>
+
 
 ## Advanced Mathematical Procedures:
 
 SerinpetAPP incorporates a suite of advanced mathematical procedures to perform intricate calculations required for oil well analysis. These procedures work seamlessly behind the scenes, providing users with accurate and dependable results.
 
+<div style="display: flex; justify-content: space-between;">
+    <img src="images/im5.png" width="200" />
+    <img src="images/im6.png" width="200" />
+</div>
 
-<img src="images/im5.png" width="200" />
-<img src="images/im6.png" width="200" />
 
 ### Robust Data Management:
 The application features robust data management capabilities, ensuring efficient handling and organization of critical information related to oil well calculations. It also provides users with the flexibility to select any machine of their choice from Serinpet's list of hydraulic pumping units.
