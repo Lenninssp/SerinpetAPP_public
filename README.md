@@ -42,6 +42,7 @@ SerinpetAPP utilizes the API RP11 method, a widely recognized industry standard 
 SerinpetAPP incorporates a suite of advanced mathematical procedures to perform intricate calculations required for oil well analysis. These procedures work seamlessly behind the scenes, providing users with accurate and dependable results.
 
 <div style="display: flex; justify-content: space-between;">
+    <img src="images/im9.png" width="200" />
     <img src="images/im5.png" width="200" />
     <img src="images/im6.png" width="200" />
 </div>
