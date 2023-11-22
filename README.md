@@ -1,10 +1,23 @@
 # SerinpetAPP: Advanced Oil Well Calculation Application
 
+<img src="images/icono.png" width="200" />
+
+
 SerinpetAPP is a cutting-edge mobile application meticulously designed for the precise calculation of oil wells, employing the industry-standard API RP11 method. Developed using a blend of Kotlin and Java, this application seamlessly integrates multiple mathematical procedures, sophisticated data management, PDF functionality, and in-storage saving capabilities.
 
 
+## About the Developer
 
-<img src="images/icono.png" width="200" />
+Hi, I'm Lennin Sabogal, the developer behind SerinpetAPP. With a passion for cutting-edge technology and a background in mobile development, I've dedicated myself to creating a powerful and secure solution for oil well calculations.
+
+## Development Status
+
+SerinpetAPP is currently in active development, with a unwavering dedication to delivering frequent updates and improvements comming in the future. The app is soon will be free to download in the Play Store, but some features are exclusive to the Serinpet clients.
+
+## Privacy and Security
+
+Due to the sensitive nature of the calculations involved and to protect proprietary information, the source code and specific calculation details of SerinpetAPP are kept private. Rest assured, this commitment to privacy is in place to safeguard the confidentiality of the application's functionality.
+
 
 ## The process
 
